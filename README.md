@@ -5,6 +5,8 @@
 ![Google AI Studio](https://img.shields.io/badge/Built%20With-Google%20AI%20Studio-blue)
 ![Gemini API](https://img.shields.io/badge/Powered%20By-Gemini%20API-4285F4)
 ![Domain](https://img.shields.io/badge/Domain-Cognitive%20Psychology%20%26%20UX-green)
+[![WTM Member](https://img.shields.io/badge/Community-Women%20Techmakers-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/womentechmakers)
+
 
 ---
 
